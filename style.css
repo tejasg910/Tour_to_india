@@ -18,18 +18,18 @@ transition: 0.3s;
 
 @keyframes change{
 
-    0%{background-image: url('/glenn-hansen-k4Y01qPNNlA-unsplash.jpg');
+    0%{background-image: url('glenn-hansen-k4Y01qPNNlA-unsplash.jpg');
        
     }
-    17%{ background-image: url('/delhi.jpg');
+    17%{ background-image: url('delhi.jpg');
         
         
     }
-    35%{ background-image: url('/agra.jpg');}
-    53%{ background-image: url('/srinagar.jpg');}
-    73%{background-image: url('/raigad.jpg');}
-    85%{ background-image: url('/tajmahal.jpg');}
-    100%{ background-image: url('/tamilnadu.jpg');}
+    35%{ background-image: url('agra.jpg');}
+    53%{ background-image: url('srinagar.jpg');}
+    73%{background-image: url('raigad.jpg');}
+    85%{ background-image: url('tajmahal.jpg');}
+    100%{ background-image: url('tamilnadu.jpg');}
     
 }
 
